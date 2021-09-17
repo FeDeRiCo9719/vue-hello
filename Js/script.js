@@ -11,7 +11,10 @@ var app = new Vue({
     el: '#Sms',
     data: {
         message: 'Hello world!',
+        
+        // 2. Aggiungere alla pagina un’immagine
+        image: 'https://miro.medium.com/max/1400/1*2kmYJdNvUCAU3ufDR0HTmA.jpeg'
     }
 });
 
-// 2. Aggiungere alla pagina un’immagine
+
